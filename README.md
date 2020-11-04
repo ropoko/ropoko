@@ -2,8 +2,8 @@ Hi there 👋
 
 My name is Rodrigo. I'm interested in music, development and cyberSecurity! :D
 
-- 🔭 Working on: Templates C# MVC and integration with MySQL, Win Forms :D
-- 🌱 Learning: MVC, Linux, FreeBSD
+- 🔭 Working on: C# MVC4 and Angular 10
+- 🌱 Learning: Linux, Angular
 - 👯 I’m looking to collaborate on: Anything
 - 💬 Ask me about: Good Practices in C# 
 - 📫 How to reach me: Discord - Ropoko#2230
