@@ -14,7 +14,6 @@
 - [Twitter](https://twitter.com/ropoko_)
 - [Linkedin](https://www.linkedin.com/in/rodrigo-maganha/)
 - Discord - Ropoko#2230
-- rodrigostramantinoli@gmail.com
 
 <p align="center">
   <img href="https://github.com/anuraghazra/github-readme-stats" alt="ropoko stats" src="https://github-readme-stats.vercel.app/api?username=ropoko&show_icons=true&theme=radical">
