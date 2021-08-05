@@ -8,7 +8,7 @@
 
 - 🌱 I'm currently learning: react and nodejs -- and haskell (for fun)
 
-- :penguin: current distro: zorinOs
+- :penguin: current distro: Solus
 
 ### Contact
 - [Twitter](https://twitter.com/ropoko_)
