@@ -9,7 +9,7 @@
 
 - 👨‍💻 My personal website: https://ropoko.net
 
-- 🌱 I'm currently learning: react and nodejs -- and haskell (for fun)
+- 🌱 I'm currently learning: react and nodejs
 
 - :penguin: current distro: Solus
 
