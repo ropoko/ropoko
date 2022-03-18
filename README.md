@@ -11,7 +11,7 @@
 
 - 🌱 I'm currently learning: react and nodejs
 
-- :penguin: current distro: ElementaryOs
+- :penguin: current distro: Glorious Arch
 
 ### Contact
 - [Twitter](https://twitter.com/ropoko_)
