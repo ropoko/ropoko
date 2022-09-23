@@ -9,7 +9,7 @@
 
 - 👨‍💻 My personal website: https://ropoko.net
 
-- 🌱 I'm currently learning: react, redux and nodejs
+- 🌱 I'm currently learning: gamedev, vlang, lua
 
 - :penguin: current distro: Glorious Arch
 
