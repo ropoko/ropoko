@@ -1,13 +1,11 @@
-<h1>
+<h2>
   Hi, I'm Rodrigo
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-</h1>
+</h2>
 
-- 👨‍💻 My personal website: https://ropoko.net
+at work, currently working both frontend and backend + serverless.
 
-- 🌱 I'm currently learning: gamedev, lua, activitypub
+outside work, I like to build random stuff with Lua.
 
 ### Contact
-- [Twitter](https://twitter.com/ropoko_)
-- [Linkedin](https://www.linkedin.com/in/rodrigo-maganha/)
-- [Mastodon](https://mastodon.gamedev.place/@ropoko)
+Find me on mastodon: @ropoko@mastodon.gamedev.place
