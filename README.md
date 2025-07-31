@@ -8,4 +8,4 @@ at work, currently working both frontend and backend + serverless.
 outside work, I like to build random stuff with Lua.
 
 ### Contact
-Find me on mastodon: @ropoko@mastodon.gamedev.place
+Find me on mastodon: @ropoko (mastodon.gamedev.place)
